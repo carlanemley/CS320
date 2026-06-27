@@ -1,9 +1,10 @@
 # Reflection
-How I Ensure My Code, Program, or Software Is Functional and Secure
-To keep my code functional and secure, I rely on consistent testing and clear validation rules. Writing unit tests helps me confirm that each method behaves the way it should, even when given unexpected or invalid inputs. I also make sure to validate all data coming into the system so that incorrect formats, null values, or unsafe inputs are caught early. This approach helps prevent bugs from slipping into the final product and reduces the chance of security issues caused by unchecked data. Thinking ahead about how the code might fail makes the final program more reliable.
 
-How I Interpret User Needs and Incorporate Them Into a Program
-I start by breaking down user requirements into smaller, specific behaviors the program must support. Once I understand what the user wants, I translate those needs into clear rules, constraints, and test cases. This helps me stay focused on what the user actually expects the software to do. Writing tests based on requirements also ensures that the final program aligns with the user’s goals and that nothing important is overlooked. When requirements are clear, it becomes easier to design features that feel intuitive and work the way the user intended.
+### **How I Ensure That My Code, Program, or Software Is Functional and Secure**
+To keep my code functional and secure, I rely on consistent testing and clear validation rules. Writing unit tests helps me confirm that each method behaves the way it should, even when given unexpected or invalid inputs. I also validate all data coming into the system so that incorrect formats, null values, or unsafe inputs are caught early. This approach helps prevent bugs from slipping into the final product and reduces the chance of security issues caused by unchecked data.
 
-How I Approach Designing Software
+### **How I Interpret User Needs and Incorporate Them Into a Program**
+I start by breaking down user requirements into smaller, specific behaviors the program must support. Once I understand what the user wants, I translate those needs into clear rules, constraints, and test cases. This helps me stay focused on what the user actually expects the software to do. Writing tests based on requirements also ensures that the final program aligns with the user’s goals and that nothing important is overlooked.
+
+### **How I Approach Designing Software**
 When designing software, I focus on keeping things simple, organized, and easy to maintain. I break the program into small, single‑purpose classes or methods so each part is easier to understand and test. I also think about how different components interact and try to avoid unnecessary complexity. Writing tests early helps guide the design because it forces me to think about how each piece should behave before I write the full implementation. This approach leads to cleaner code, fewer bugs, and a structure that is easier to update in the future.
